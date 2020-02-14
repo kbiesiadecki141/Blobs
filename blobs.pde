@@ -19,7 +19,7 @@ int numBlobsKilled;
 int levelBlobs;
 
 Arduino arduino;
-int servoPin = 10;
+int servoPin = 9;
 
 Animation explode;
 Animation spinnyBoi;
